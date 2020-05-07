@@ -1,5 +1,5 @@
 # piHoleDNSAdmin
-pi-hole admin page that allows the user to manage a local Domain Name Server.
+pi-hole add-in to the AdminLTE site. This admin page provides a Web GUI interface to manage pi-hole as a Lan Domain Name Server.
 
 # Installation
 Steps
