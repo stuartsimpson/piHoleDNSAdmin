@@ -44,3 +44,4 @@ Steps
   sudo chmod 666 /etc/pi-hole/<domain>.list
 ```
   
+![Local DNS Admin Page](https://raw.githubusercontent.com/stuartsimpson/piHoleDNSAdmin/master/Pi-holeLanDNSAdminPage.png)
